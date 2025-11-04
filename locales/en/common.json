@@ -1,0 +1,99 @@
+{
+  "ageRanges": {
+    "18-21": "18-21",
+    "21-29": "21-29",
+    "30-40": "30-40",
+    "40+": "40+"
+  },
+  "figure": {
+    "extra-skinny": "Extra Skinny",
+    "curvy": "Curvy",
+    "skinny": "Skinny",
+    "thick": "Thick",
+    "athletic": "Athletic",
+    "extra-thick": "Extra Thick"
+  },
+  "ethnicity": {
+    "caucasian": "Caucasian",
+    "asian": "Asian",
+    "hispanic": "Hispanic",
+    "black": "Black",
+    "middle-eastern": "Middle Eastern"
+  },
+  "hairColor": {
+    "blonde": "Blonde",
+    "dark": "Dark",
+    "open": "I'm open to anything",
+    "ginger": "Ginger",
+    "colorful": "Colorful"
+  },
+  "eyeColor": {
+    "blue": "Blue",
+    "green": "Green",
+    "brown": "Brown",
+    "special": "Special",
+    "any": "Any color"
+  },
+  "specificPreferences": {
+    "tattoos": "Tattoos",
+    "freckles": "Freckles",
+    "tooth-gap": "Tooth Gap",
+    "makeup": "Makeup",
+    "body-hair": "Body Hair",
+    "no-makeup": "No Makeup"
+  },
+  "characterTraits": {
+    "cold": "Cold",
+    "passionate": "Passionate",
+    "dominant": "Dominant",
+    "submissive": "Submissive",
+    "flirtatious": "Flirtatious",
+    "reserved": "Reserved",
+    "serious": "Serious",
+    "playful": "Playful",
+    "restrained": "Restrained",
+    "wild": "Wild",
+    "dangerous": "Dangerous",
+    "safe": "Safe",
+    "provocative": "Provocative",
+    "modest": "Modest"
+  },
+  "turnOns": {
+    "lipstick": "Lipstick",
+    "toys": "Toys",
+    "high-heels": "High Heels",
+    "stockings": "Stockings",
+    "dirty-talk": "Dirty Talk",
+    "innocence": "Innocence"
+  },
+  "activities": {
+    "threesome": "Threesome",
+    "backdoor-action": "Backdoor Action",
+    "bdsm": "BDSM",
+    "roleplay": "Roleplay",
+    "age-gap": "Age Gap"
+  },
+  "scenarios": {
+    "lesbian": "Lesbian",
+    "milf": "MILF",
+    "hentai": "Hentai",
+    "step-mom": "Step Mom",
+    "bbw": "BBW",
+    "pregnant": "Pregnant",
+    "face-sitting": "Face Sitting",
+    "dp": "DP"
+  },
+  "roleplay": {
+    "doctor-patient": "Doctor & Patient",
+    "teacher-student": "Teacher & Student",
+    "boss-employee": "Boss & Employee",
+    "police-criminal": "Police & Criminal",
+    "royalty-commoner": "Royalty & Commoner",
+    "repairman-owner": "Repairman & Owner",
+    "massage-client": "Massage & Client",
+    "superhero-villain": "Superhero & Villain"
+  },
+  "buttons": {
+    "continue": "Continue"
+  }
+}

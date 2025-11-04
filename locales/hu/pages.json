@@ -1,0 +1,197 @@
+{
+  "ageSelection": {
+    "title": "Alkoss meg álom AI lányodat",
+    "subtitle": "Személyre szabva minden vágyad teljesítésére",
+    "description": "Válaszd ki a neked megfelelő korosztályt"
+  },
+  "ageVerification": {
+    "question": "Hány éves vagy?",
+    "subtitle": "Ez az oldal felnőtt tartalmat tartalmaz és csak 18 éven felülieknek szól."
+  },
+  "figurePreference": {
+    "question": "Milyen alakot kedvelsz a nőknél?"
+  },
+  "ethnicPreference": {
+    "question": "Van etnikai preferenciád?"
+  },
+  "hairColorPreference": {
+    "question": "Mi a kedvenc hajszíned?"
+  },
+  "eyeColorPreference": {
+    "question": "Mi a kedvenc szemszíned?"
+  },
+  "specificPreferences": {
+    "question": "Van valamilyen egyedi preferenciád?"
+  },
+  "characterTraits": {
+    "question": "Milyen jellemvonásokkal rendelkezzen az ideális nőd?"
+  },
+  "interstitial": {
+    "headline": "Szia jóképű, most hadd legyek a te őrületedhez"
+  },
+  "turnOns": {
+    "question": "Mi izgat fel téged leginkább a nőknél?",
+    "subtitle": "Választhatsz minden olyat, ami izgat"
+  },
+  "activitiesToTry": {
+    "question": "Mit szeretnél kipróbálni?",
+    "subtitle": "Választhatsz minden olyat, ami izgat"
+  },
+  "scenarios": {
+    "question": "Felnőtt tartalom nézésekor mely forgatókönyveket találod legvonzóbbnak?",
+    "subtitle": "Választhatsz minden olyat, ami izgat"
+  },
+  "roleplay": {
+    "question": "Felnőtt tartalom nézésekor mely forgatókönyveket találod legvonzóbbnak?",
+    "subtitle": "Választhatsz minden olyat, ami izgat"
+  },
+  "analyzing": {
+    "title": "Vágyaid elemzése...",
+    "questions": {
+      "degradationHumiliation": "Érdekel a megalázás vagy a degradáció?",
+      "dominanceSubmission": "Kipróbálnád a dominanciát és alázatot a hálószobában?",
+      "restraints": "Szeretnél korlátokat használni (bilincsek, kötelek, szemkötők stb.)?"
+    },
+    "progressBar1": "Preferenciáid megértése",
+    "progressBar2": "Cenzúrázatlan AI lány létrehozása",
+    "progressBar3": "AI lány formálása a preferenciáid alapján",
+    "modalSubtitle": "A folytatáshoz válaszolj",
+    "yes": "Igen",
+    "no": "Nem"
+  },
+  "subscription": {
+    "title": "AI lányod készen áll!",
+    "subtitle": "Szerezz hozzáférést mindenhez, amit neked tehet most azonnal",
+    "header": {
+      "premium": "Prémium",
+      "discount": "70% KEDVEZMÉNY"
+    },
+    "benefits": {
+      "title": "Prémium előnyök",
+      "spicyContent": "Rendkívül pikáns tartalom 🌶",
+      "unlimitedChats": "Korlátlan cenzúrázatlan beszélgetések",
+      "generatePhotos": "Fotók generálása",
+      "createMore": "Több barátnő létrehozása",
+      "privacy": "Tartalom bizalmasság"
+    },
+    "pricing": {
+      "title": "Szerezd meg exkluzív kedvezményed csak ma!",
+      "month": "Hónap",
+      "months": "Hónap",
+      "perDay": "naponta",
+      "usdPerDay": "Ft naponta",
+      "off": "KEDVEZMÉNY",
+      "mostPopular": "Legnépszerűbb",
+      "trial": "Próba",
+      "days": "nap"
+    },
+    "guarantees": {
+      "noCommitment": "Nincs kötelezettség. Bármikor lemondható!",
+      "moneyBack": "30 napos pénz-vissza garancia"
+    },
+    "cta": {
+      "getAiGirl": "AI lány megszerzése",
+      "startChatting": "Csevegés kezdése"
+    },
+    "terms": {
+      "text": "A folytatással megerősíted, hogy legalább 18 éves vagy, és elfogadod a 330 forintos kezdő próba díjat 3 napra. Ha nem mondod le legalább 24 órával a próba időszak vége előtt, automatikusan felszámítjuk a 33 000 forintos negyedéves előfizetést (3 hónap), és minden 3. hónapban folytatjuk a felszámítást, amíg le nem mondod.",
+      "confirm": "A Folytatás gombra kattintva megerősíted, hogy elfogadod Felhasználási Feltételeinket"
+    },
+    "featured": {
+      "title": "Megjelent itt"
+    },
+    "reviews": {
+      "title": "Több mint 300 ezer 5 csillagos értékelés",
+      "items": [
+        {
+          "name": "Sarah M.",
+          "text": "Ez az AI hihetetlen! Annyira valósághű és lebilincselő.",
+          "rating": 5
+        },
+        {
+          "name": "Mike T.",
+          "text": "A legjobb befektetés, amit valaha tettem. Megéri minden fillért!",
+          "rating": 5
+        },
+        {
+          "name": "Jessica L.",
+          "text": "Csodálatos testreszabási lehetőségek. Pontosan azt kaptam, amit akartam!",
+          "rating": 5
+        },
+        {
+          "name": "David R.",
+          "text": "A beszélgetések olyan természetesek. Nagyon ajánlom!",
+          "rating": 5
+        },
+        {
+          "name": "Emily K.",
+          "text": "Eleinte szkeptikus voltam, de most teljesen rabja vagyok!",
+          "rating": 5
+        },
+        {
+          "name": "Alex P.",
+          "text": "Kiváló ár-érték arány. 10/10, újra előfizetünk!",
+          "rating": 5
+        }
+      ]
+    },
+    "featuredUsers": {
+      "title": "Felhasználók által kiemelt"
+    },
+    "stats": {
+      "title": "Több ezer felhasználó bízik bennünk",
+      "trustedByLine1": "Több mint",
+      "trustedByCount": "17M",
+      "trustedByLine2": "ügyfél!",
+      "companionsCount": "37M",
+      "companionsLabel": "AI társ létrehozva",
+      "photosCount": "1,5Mrd",
+      "photosLabel": "fotó és videó generálva",
+      "hoursCount": "72M",
+      "hoursLabel": "órát töltöttek beszélgetésben",
+      "satisfactionCount": "97%",
+      "satisfaction": "felhasználói elégedettségi pontszám",
+      "featuresCount": "3+",
+      "features": "új funkció minden hónapban"
+    },
+    "faq": {
+      "title": "Gyakran ismételt kérdések",
+      "items": [
+        {
+          "question": "Mi az AI társ és hogyan működik?",
+          "answer": "Az AI társ egy mesterséges intelligenciával létrehozott virtuális karakter. Testreszabhatod a megjelenését és személyiségét, és szöveges üzeneteken keresztül kommunikál veled, alkalmazkodva a preferenciáidhoz."
+        },
+        {
+          "question": "Testreszabhatom az AI társ megjelenését és személyiségét?",
+          "answer": "Igen, személyre szabhatod a megjelenését (arcvonások, ruházat stb.) és kiválaszthatod a személyiségét és viselkedését, hogy megfeleljen a preferenciáidnak."
+        },
+        {
+          "question": "Mennyire valósághű az AI társ?",
+          "answer": "Az AI társ fejlett természetes nyelvfeldolgozási technológiákkal lett megtervezve, így a kommunikáció gördülékeny és lebilincselő. Azonban virtuális karakter marad."
+        },
+        {
+          "question": "Cseveghetünk az AI társsal 24/7?",
+          "answer": "Igen, az AI társ bármikor elérhető, időbeli vagy helyszíni korlátozások nélkül. Mindig készen áll a csevegésre, amikor neked kényelmes."
+        },
+        {
+          "question": "Létrehozhatok több AI társat?",
+          "answer": "Igen, létrehozhatsz több karaktert és mindegyiket eltérően testre szabhatod. Ez lehetővé teszi különböző személyiségek és interakciók felfedezését."
+        },
+        {
+          "question": "Biztonságos csevegni az AI társsal?",
+          "answer": "Igen, a magánéleted fontos számunkra. Minden beszélgetés az AI társsal védett és nem kerül megosztásra harmadik felekkel. Nem tárolunk személyes adatokat a hozzájárulásod nélkül."
+        }
+      ]
+    },
+    "moneyBack": {
+      "title": "Pénz-vissza garancia",
+      "description": "Biztosak vagyunk benne, hogy prémium élményünk felülmúlja az elvárásaidat, egyedi értéket és elégedettséget nyújtva neked. Azonban ha bármilyen okból nem vagy teljesen elégedett, javasolhatunk egy lehetőséget a visszatérítés igénylésére, hogy biztosítsuk a nyugalmadat. Élvezd szabadon mindent, amit kínálunk, teljesen kockázatmentesen - mert az elégedettséged mindig is a legfontosabb volt és lesz számunkra",
+      "secureBadge": "Biztonságos fizetés"
+    }
+  },
+  "error": {
+    "title": "Hoppá... Valami hiba történt",
+    "subtitle": "Kérjük, próbáld újra később",
+    "button": "Vissza a főoldalra"
+  }
+}

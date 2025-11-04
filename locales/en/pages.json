@@ -1,0 +1,197 @@
+{
+  "ageSelection": {
+    "title": "Create Your Dream AI Girl",
+    "subtitle": "Personalized to fulfill your every wish",
+    "description": "Select the age that feels right for your AI match"
+  },
+  "ageVerification": {
+    "question": "How old are you?",
+    "subtitle": "This site contains adult content and is only for users 18 and older."
+  },
+  "figurePreference": {
+    "question": "What kind of figure do you prefer in women?"
+  },
+  "ethnicPreference": {
+    "question": "Do you have any ethnic preferences?"
+  },
+  "hairColorPreference": {
+    "question": "What's your favourite hair color?"
+  },
+  "eyeColorPreference": {
+    "question": "What's your favourite eye color?"
+  },
+  "specificPreferences": {
+    "question": "Any specific preferences?"
+  },
+  "characterTraits": {
+    "question": "What character traits should your ideal woman have?"
+  },
+  "interstitial": {
+    "headline": "Hey handsome, now let me match your freak"
+  },
+  "turnOns": {
+    "question": "What turns you on most in women?",
+    "subtitle": "You can choose all that excite you"
+  },
+  "activitiesToTry": {
+    "question": "What would you like to try?",
+    "subtitle": "You can choose all that excite you"
+  },
+  "scenarios": {
+    "question": "When watching adult content, which scenarios do you find most appealing?",
+    "subtitle": "You can choose all that excite you"
+  },
+  "roleplay": {
+    "question": "When watching adult content, which scenarios do you find most appealing?",
+    "subtitle": "You can choose all that excite you"
+  },
+  "analyzing": {
+    "title": "Analyzing Your Desires...",
+    "questions": {
+      "degradationHumiliation": "Are you interested in degradation or humiliation?",
+      "dominanceSubmission": "Would you try dominance and submission in the bedroom?",
+      "restraints": "Do you enjoy incorporating restraints (handcuffs, ropes, blindfolds, etc.)?"
+    },
+    "progressBar1": "Understanding your preferences",
+    "progressBar2": "Creating an uncensored version of AI girl",
+    "progressBar3": "Crafting AI girl to your preferences",
+    "modalSubtitle": "To move forward, specify",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "subscription": {
+    "title": "Your AI Girl Is Ready!",
+    "subtitle": "Get access to everything she can do for you right now",
+    "header": {
+      "premium": "Premium",
+      "discount": "70% OFF"
+    },
+    "benefits": {
+      "title": "Premium Benefits",
+      "spicyContent": "Extremely Spicy Content 🌶",
+      "unlimitedChats": "Unlimited Uncensored Chats",
+      "generatePhotos": "Generate Photos",
+      "createMore": "Create More Girlfriend",
+      "privacy": "Content Privacy"
+    },
+    "pricing": {
+      "title": "Get Exclusive Discount Today Only!",
+      "month": "Month",
+      "months": "Months",
+      "perDay": "per day",
+      "usdPerDay": "USD per day",
+      "off": "OFF",
+      "mostPopular": "Most Popular",
+      "trial": "Trial",
+      "days": "days"
+    },
+    "guarantees": {
+      "noCommitment": "No commitment. Cancel anytime!",
+      "moneyBack": "30-Day Money-Back Guarantee"
+    },
+    "cta": {
+      "getAiGirl": "Get AI girl",
+      "startChatting": "Start Chating"
+    },
+    "terms": {
+      "text": "By continuing, you confirm that you are at least 18 years old and agree to an introductory trial payment of $1 for 3 days. If you do not cancel at least 24 hours before the end of the trial period, you will automatically be charged $99 for a quarterly subscription (3 months) and will continue to be charged every 3 months until you cancel.",
+      "confirm": "By clicking Continue, you also confirm that you agree to our Terms & Conditions"
+    },
+    "featured": {
+      "title": "As featured in"
+    },
+    "reviews": {
+      "title": "Over 300k 5-star reviews",
+      "items": [
+        {
+          "name": "Sarah M.",
+          "text": "This AI is incredible! So realistic and engaging.",
+          "rating": 5
+        },
+        {
+          "name": "Mike T.",
+          "text": "Best investment I've made. Worth every penny!",
+          "rating": 5
+        },
+        {
+          "name": "Jessica L.",
+          "text": "Amazing customization options. Exactly what I wanted!",
+          "rating": 5
+        },
+        {
+          "name": "David R.",
+          "text": "The conversations feel so natural. Highly recommend!",
+          "rating": 5
+        },
+        {
+          "name": "Emily K.",
+          "text": "I was skeptical at first, but now I'm hooked!",
+          "rating": 5
+        },
+        {
+          "name": "Alex P.",
+          "text": "Great value for money. 10/10 would subscribe again!",
+          "rating": 5
+        }
+      ]
+    },
+    "featuredUsers": {
+      "title": "Featured by users"
+    },
+    "stats": {
+      "title": "Trusted by thousands",
+      "trustedByLine1": "Trusted by",
+      "trustedByCount": "17M",
+      "trustedByLine2": "customers!",
+      "companionsCount": "37M",
+      "companionsLabel": "AI Companions created",
+      "photosCount": "1.5B",
+      "photosLabel": "photos and videos generated",
+      "hoursCount": "72M",
+      "hoursLabel": "hours spent in chats",
+      "satisfactionCount": "97%",
+      "satisfaction": "user satisfaction score",
+      "featuresCount": "3+",
+      "features": "new features every month"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What is an AI companion and how does it work?",
+          "answer": "An AI companion is a virtual character created using artificial intelligence. You can customize their appearance and personality, and they will communicate with you through text messages, adapting to your preferences."
+        },
+        {
+          "question": "Can I customize the appearance and personality of the AI companion?",
+          "answer": "Yes, you can personalize their appearance (facial features, clothing, etc.) and choose their personality and behavior to match your preferences."
+        },
+        {
+          "question": "How realistic is the AI companion?",
+          "answer": "The AI companion is designed using advanced natural language processing technologies, making interactions smooth and engaging. However, they remain a virtual character."
+        },
+        {
+          "question": "Can I chat with an AI companion 24/7?",
+          "answer": "Yes, the AI companion is available at any time, with no restrictions on time or place. They are always ready to chat whenever it is convenient for you."
+        },
+        {
+          "question": "Can I create multiple AI companions?",
+          "answer": "Yes, you can create multiple characters and customize each one differently. This allows you to explore different personalities and interactions."
+        },
+        {
+          "question": "Is it safe to chat with an AI companion?",
+          "answer": "Yes, your privacy is important to us. All conversations with the AI companion are protected and not shared with third parties. We do not store personal data without your consent."
+        }
+      ]
+    },
+    "moneyBack": {
+      "title": "Money Back Guarantee",
+      "description": "We're confident that our premium experience will exceed your expectations, providing you with unique value and satisfaction. However, if for any reason you're not fully satisfied, we could propose you an option to apply for the refund to ensure your peace of mind. Enjoy the freedom to explore everything we offer, completely risk-free—because your satisfaction is, and always will be, our top priority",
+      "secureBadge": "Pay safe & secure"
+    }
+  },
+  "error": {
+    "title": "Oops... Something went wrong",
+    "subtitle": "Please try again later",
+    "button": "Go Back Home"
+  }
+}

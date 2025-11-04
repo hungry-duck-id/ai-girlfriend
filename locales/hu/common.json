@@ -1,0 +1,99 @@
+{
+  "ageRanges": {
+    "18-21": "18-21",
+    "21-29": "21-29",
+    "30-40": "30-40",
+    "40+": "40+"
+  },
+  "figure": {
+    "extra-skinny": "Extra Vékony",
+    "curvy": "Dús",
+    "skinny": "Vékony",
+    "thick": "Telt",
+    "athletic": "Atletikus",
+    "extra-thick": "Extra Telt"
+  },
+  "ethnicity": {
+    "caucasian": "Kaukázusi",
+    "asian": "Ázsiai",
+    "hispanic": "Spanyol",
+    "black": "Fekete",
+    "middle-eastern": "Közel-keleti"
+  },
+  "hairColor": {
+    "blonde": "Szőke",
+    "dark": "Sötét",
+    "open": "Bármi jó nekem",
+    "ginger": "Vörös",
+    "colorful": "Színes"
+  },
+  "eyeColor": {
+    "blue": "Kék",
+    "green": "Zöld",
+    "brown": "Barna",
+    "special": "Különleges",
+    "any": "Bármilyen szín"
+  },
+  "specificPreferences": {
+    "tattoos": "Tetoválások",
+    "freckles": "Szeplők",
+    "tooth-gap": "Fogrés",
+    "makeup": "Smink",
+    "body-hair": "Testszőrzet",
+    "no-makeup": "Smink nélkül"
+  },
+  "characterTraits": {
+    "cold": "Hideg",
+    "passionate": "Szenvedélyes",
+    "dominant": "Domináns",
+    "submissive": "Alázatos",
+    "flirtatious": "Flörtölős",
+    "reserved": "Visszafogott",
+    "serious": "Komoly",
+    "playful": "Játékos",
+    "restrained": "Mértékletes",
+    "wild": "Vad",
+    "dangerous": "Veszélyes",
+    "safe": "Biztonságos",
+    "provocative": "Provokatív",
+    "modest": "Szerény"
+  },
+  "turnOns": {
+    "lipstick": "Rúzs",
+    "toys": "Játékok",
+    "high-heels": "Magassarkú",
+    "stockings": "Harisnya",
+    "dirty-talk": "Mocskos beszéd",
+    "innocence": "Ártatlanság"
+  },
+  "activities": {
+    "threesome": "Hármas",
+    "backdoor-action": "Hátsó akció",
+    "bdsm": "BDSM",
+    "roleplay": "Szerepjáték",
+    "age-gap": "Korkülönbség"
+  },
+  "scenarios": {
+    "lesbian": "Leszbikus",
+    "milf": "MILF",
+    "hentai": "Hentai",
+    "step-mom": "Mostohaanya",
+    "bbw": "BBW",
+    "pregnant": "Terhes",
+    "face-sitting": "Arcra ülés",
+    "dp": "DP"
+  },
+  "roleplay": {
+    "doctor-patient": "Orvos és páciens",
+    "teacher-student": "Tanár és diák",
+    "boss-employee": "Főnök és alkalmazott",
+    "police-criminal": "Rendőr és bűnöző",
+    "royalty-commoner": "Nemesség és közember",
+    "repairman-owner": "Szerelő és tulajdonos",
+    "massage-client": "Masszőr és ügyfél",
+    "superhero-villain": "Szuperhős és gonosztevő"
+  },
+  "buttons": {
+    "continue": "Folytatás"
+  }
+}
