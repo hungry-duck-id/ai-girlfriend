@@ -1,52 +1,67 @@
 {
+  "home": {
+    "title": "Főoldal"
+  },
   "ageSelection": {
-    "title": "Alkoss meg álom AI lányodat",
+    "title": "Életkor Választás",
     "subtitle": "Személyre szabva minden vágyad teljesítésére",
     "description": "Válaszd ki a neked megfelelő korosztályt"
   },
   "ageVerification": {
+    "title": "Életkor Ellenőrzés",
     "question": "Hány éves vagy?",
     "subtitle": "Ez az oldal felnőtt tartalmat tartalmaz és csak 18 éven felülieknek szól."
   },
   "figurePreference": {
+    "title": "Alak Preferencia",
     "question": "Milyen alakot kedvelsz a nőknél?"
   },
   "ethnicPreference": {
+    "title": "Etnikai Preferencia",
     "question": "Van etnikai preferenciád?"
   },
   "hairColorPreference": {
+    "title": "Hajszín Preferencia",
     "question": "Mi a kedvenc hajszíned?"
   },
   "eyeColorPreference": {
+    "title": "Szemszín Preferencia",
     "question": "Mi a kedvenc szemszíned?"
   },
   "specificPreferences": {
+    "title": "Egyedi Preferenciák",
     "question": "Van valamilyen egyedi preferenciád?"
   },
   "characterTraits": {
+    "title": "Jellemvonások",
     "question": "Milyen jellemvonásokkal rendelkezzen az ideális nőd?"
   },
   "interstitial": {
+    "title": "Átmeneti",
     "headline": "Szia jóképű, most hadd legyek a te őrületedhez"
   },
   "turnOns": {
+    "title": "Izgalom",
     "question": "Mi izgat fel téged leginkább a nőknél?",
     "subtitle": "Választhatsz minden olyat, ami izgat"
   },
   "activitiesToTry": {
+    "title": "Kipróbálandó Tevékenységek",
     "question": "Mit szeretnél kipróbálni?",
     "subtitle": "Választhatsz minden olyat, ami izgat"
   },
   "scenarios": {
+    "title": "Forgatókönyvek",
     "question": "Felnőtt tartalom nézésekor mely forgatókönyveket találod legvonzóbbnak?",
     "subtitle": "Választhatsz minden olyat, ami izgat"
   },
   "roleplay": {
+    "title": "Szerepjáték",
     "question": "Felnőtt tartalom nézésekor mely forgatókönyveket találod legvonzóbbnak?",
     "subtitle": "Választhatsz minden olyat, ami izgat"
   },
   "analyzing": {
-    "title": "Vágyaid elemzése...",
+    "title": "Elemzés",
     "questions": {
       "degradationHumiliation": "Érdekel a megalázás vagy a degradáció?",
       "dominanceSubmission": "Kipróbálnád a dominanciát és alázatot a hálószobában?",
@@ -60,7 +75,7 @@
     "no": "Nem"
   },
   "subscription": {
-    "title": "AI lányod készen áll!",
+    "title": "Előfizetés",
     "subtitle": "Szerezz hozzáférést mindenhez, amit neked tehet most azonnal",
     "header": {
       "premium": "Prémium",
@@ -189,8 +204,11 @@
       "secureBadge": "Biztonságos fizetés"
     }
   },
+  "notFound": {
+    "title": "Nem Található"
+  },
   "error": {
-    "title": "Hoppá... Valami hiba történt",
+    "title": "Hiba",
     "subtitle": "Kérjük, próbáld újra később",
     "button": "Vissza a főoldalra"
   }

@@ -1,52 +1,67 @@
 {
+  "home": {
+    "title": "Home"
+  },
   "ageSelection": {
-    "title": "Create Your Dream AI Girl",
+    "title": "Age Selection",
     "subtitle": "Personalized to fulfill your every wish",
     "description": "Select the age that feels right for your AI match"
   },
   "ageVerification": {
+    "title": "Age Verification",
     "question": "How old are you?",
     "subtitle": "This site contains adult content and is only for users 18 and older."
   },
   "figurePreference": {
+    "title": "Figure Preference",
     "question": "What kind of figure do you prefer in women?"
   },
   "ethnicPreference": {
+    "title": "Ethnic Preference",
     "question": "Do you have any ethnic preferences?"
   },
   "hairColorPreference": {
+    "title": "Hair Color Preference",
     "question": "What's your favourite hair color?"
   },
   "eyeColorPreference": {
+    "title": "Eye Color Preference",
     "question": "What's your favourite eye color?"
   },
   "specificPreferences": {
+    "title": "Specific Preferences",
     "question": "Any specific preferences?"
   },
   "characterTraits": {
+    "title": "Character Traits",
     "question": "What character traits should your ideal woman have?"
   },
   "interstitial": {
+    "title": "Interstitial",
     "headline": "Hey handsome, now let me match your freak"
   },
   "turnOns": {
+    "title": "Turn Ons",
     "question": "What turns you on most in women?",
     "subtitle": "You can choose all that excite you"
   },
   "activitiesToTry": {
+    "title": "Activities To Try",
     "question": "What would you like to try?",
     "subtitle": "You can choose all that excite you"
   },
   "scenarios": {
+    "title": "Scenarios",
     "question": "When watching adult content, which scenarios do you find most appealing?",
     "subtitle": "You can choose all that excite you"
   },
   "roleplay": {
+    "title": "Roleplay",
     "question": "When watching adult content, which scenarios do you find most appealing?",
     "subtitle": "You can choose all that excite you"
   },
   "analyzing": {
-    "title": "Analyzing Your Desires...",
+    "title": "Analyzing",
     "questions": {
       "degradationHumiliation": "Are you interested in degradation or humiliation?",
       "dominanceSubmission": "Would you try dominance and submission in the bedroom?",
@@ -60,7 +75,7 @@
     "no": "No"
   },
   "subscription": {
-    "title": "Your AI Girl Is Ready!",
+    "title": "Subscription",
     "subtitle": "Get access to everything she can do for you right now",
     "header": {
       "premium": "Premium",
@@ -189,8 +204,11 @@
       "secureBadge": "Pay safe & secure"
     }
   },
+  "notFound": {
+    "title": "Not Found"
+  },
   "error": {
-    "title": "Oops... Something went wrong",
+    "title": "Error",
     "subtitle": "Please try again later",
     "button": "Go Back Home"
   }
